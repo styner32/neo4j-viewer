@@ -1,0 +1,6 @@
+/.bundle
+/log/*.log
+/tmp
+/config/secrets.yml
+/.idea
+/**/*.sqlite3
